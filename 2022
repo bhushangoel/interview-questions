@@ -1,0 +1,20 @@
+- currying in JS
+  - its definition
+  - advantages and uses
+  - disadvantages
+- lazy loading disadvantage
+- write a `promise` polyfill
+  - write a polyfill for `promise.all()`
+- web performance
+- IVY in angular
+- semantic tags and their uses
+- SEO in single page app
+- polyfill for `apply` without using `call` or `bind` method
+- event loop
+- how does promises or async functions tell eventloop that they are ready to be picked
+
+- Frontend masters
+- JS -> async/await, polyfills, performance best practices(preload, precache, defer, async)
+- reactjs
+- design patterns
+- coding questions
